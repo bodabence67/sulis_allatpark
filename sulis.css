@@ -36,6 +36,23 @@ body {
     border: 5px solid white;
 
 }
+h1 {
+    margin-top: 10px;
+}
+
+.mondat {
+    width: 650px;
+    text-align: justify;
+    
+}
+
+.felkover {
+    font-weight: bold;
+}
+
+.simogato {
+    width: 75%;
+}
 
 .icon
 {
@@ -48,6 +65,11 @@ body {
 {
 -webkit-filter: drop-shadow(0px 0px 15px orange);
 filter: drop-shadow(0px 0px 15px orange);
+}
+
+#zold_ragyogas {
+    -webkit-filter: drop-shadow(0px 0px 15px green);
+filter: drop-shadow(0px 0px 15px green);
 }
 
 
