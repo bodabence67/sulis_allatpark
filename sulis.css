@@ -36,7 +36,7 @@ body {
     border: 5px solid white;
 
 }
-h1 {
+.allatpark {
     margin-top: 10px;
 }
 
@@ -52,6 +52,9 @@ h1 {
 
 .simogato {
     width: 75%;
+    margin: 0px;
+    image-rendering: auto;
+    
 }
 
 .icon
