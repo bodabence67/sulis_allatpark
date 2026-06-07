@@ -51,10 +51,13 @@ body {
 }
 
 .simogato {
-    width: 75%;
-    margin: 0px;
-    image-rendering: auto;
+   margin: 0px 0px 0px 150px;
     
+}
+
+.kozepre {
+    text-align: center;
+    margin-top: 5px;
 }
 
 .icon
@@ -76,8 +79,20 @@ filter: drop-shadow(0px 0px 15px green);
 }
 
 
-.kozepre
-{
-    text-align: center;
+.kep {
+  margin: 0px 0px 0px 150px;
+  width: 75%;
+
 }
+
+.vissza {
+    width: 20px;
+    margin: 0px 15px 0px 0px;
+}
+
+.madarhaz_szoveg {
+    margin-top: -10px ;
+}
+
+
 
